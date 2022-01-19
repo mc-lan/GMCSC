@@ -1,6 +1,6 @@
 # GMCSC
 
-Generalized Multi-view Collaborative Subspace Clustering
+Generalized Multi-view Collaborative Subspace Clustering, IEEE Transactions on Circuits and Systems for Video Technology, 2021
 
 If you find the repo useful, please kindly cite the paper below
 
